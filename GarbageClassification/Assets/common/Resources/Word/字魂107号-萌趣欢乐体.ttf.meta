@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: fbbae5e751b4f5c4286c205bad1aa527
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: zihun107hao-mengquhuanleti
+  fontNames:
+  - zihun107hao-mengquhuanleti
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 7d63de0888e5d634db6704da225d92de, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: d876eb4695e669640a757288bdda902a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gameStart: {instanceID: 0}
+  - gameSelect: {instanceID: 0}
+  - gameDescription: {instanceID: 0}
+  - gamePause: {instanceID: 0}
+  - gameDefeat: {instanceID: 0}
+  - gameSuccess: {instanceID: 0}
+  - clip: {fileID: 8300000, guid: 3f412af145039984c84c87e5e025d62b, type: 3}
+  - source: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
